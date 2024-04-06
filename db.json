@@ -1,0 +1,44 @@
+{
+  "discos": [
+    {
+      "id": 1,
+      "titulo": "Nevermind",
+      "artista": "Nirvana",
+      "selloDiscografico": "DGC Records",
+      "anioPublicacion": 1991,
+      "valoracion": 5
+    },
+    {
+      "id": 2,
+      "titulo": "The Chronic",
+      "artista": "Dr. Dre",
+      "selloDiscografico": "Death Row",
+      "anioPublicacion": 1992,
+      "valoracion": 4
+    },
+    {
+      "id": 3,
+      "titulo": "Ten",
+      "artista": "Pearl Jam",
+      "selloDiscografico": "Epic Records",
+      "anioPublicacion": 1991,
+      "valoracion": 5
+    },
+    {
+      "id": 4,
+      "titulo": "Dookie",
+      "artista": "Green Day",
+      "selloDiscografico": "Reprise Records",
+      "anioPublicacion": 1994,
+      "valoracion": 4
+    },
+    {
+      "id": 5,
+      "titulo": "The Score",
+      "artista": "Fugees",
+      "selloDiscografico": "Ruffhouse Records",
+      "anioPublicacion": 1996,
+      "valoracion": 5
+    }
+  ]
+}
