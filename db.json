@@ -10,11 +10,11 @@
     },
     {
       "id": 2,
-      "titulo": "The Chronic",
-      "artista": "Dr. Dre",
-      "selloDiscografico": "Death Row",
-      "anioPublicacion": 1992,
-      "valoracion": 4
+      "titulo": "A Night at the Opera",
+      "artista": "Queen",
+      "selloDiscografico": "EMI",
+      "anioPublicacion": 1975,
+      "valoracion": 5
     },
     {
       "id": 3,
@@ -34,11 +34,12 @@
     },
     {
       "id": 5,
-      "titulo": "The Score",
-      "artista": "Fugees",
-      "selloDiscografico": "Ruffhouse Records",
-      "anioPublicacion": 1996,
+      "titulo": "Born to Run",
+      "artista": "Bruce Springsteen",
+      "selloDiscografico": "Columbia Records",
+      "anioPublicacion": 1975,
       "valoracion": 5
     }
   ]
 }
+
